@@ -1,0 +1,7 @@
+{
+    "require": {
+        "laravel/ui": "^4.2",
+        "laravel/jetstream": "^2.16",
+        "yajra/laravel-datatables": "^9.0"
+    }
+}
